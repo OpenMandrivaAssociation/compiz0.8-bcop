@@ -3,7 +3,7 @@
 
 Name:		compiz0.8-bcop
 Version:	0.8.8
-Release:	1
+Release:	2
 Summary:	BCOP: Compiz Fusion plugin build utility
 Group:		System/X11
 License:	GPLv2
