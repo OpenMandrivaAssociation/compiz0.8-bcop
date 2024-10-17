@@ -7,7 +7,7 @@ Release:	2
 Summary:	BCOP: Compiz Fusion plugin build utility
 Group:		System/X11
 License:	GPLv2
-URL:		http://www.compiz.org/
+URL:		https://www.compiz.org/
 Source:		http://releases.compiz.org/components/%{oname}/%{oname}-%{version}.tar.bz2
 BuildRequires:	pkgconfig(libxslt)
 Requires:	xsltproc
