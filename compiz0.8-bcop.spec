@@ -9,6 +9,11 @@ Group:		System/X11
 License:	GPLv2
 URL:		https://www.compiz.org/
 Source:		http://releases.compiz.org/components/%{oname}/%{oname}-%{version}.tar.bz2
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 BuildRequires:	pkgconfig(libxslt)
 Requires:	xsltproc
 Conflicts:	compiz > 0.9
